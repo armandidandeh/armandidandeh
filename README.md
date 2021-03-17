@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! 👋
 
 My name is Arman.
 I'm a full-stack developer turned into a data scinetist turned into a DataOps/MLOps/NLP engineer and an AI strategist. 
@@ -9,17 +9,8 @@ You can follow me on:
 
 - my [LinkedIn](https://www.linkedin.com/in/armandidandeh/)
 
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=armandidandeh&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandidandeh&hide=html&layout=compact&theme=dracula)](https://github.com/armandidandeh/github-readme-stats)
 
-<a href="https://github.com/armandidandeh/VARSITY-New">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=VARSITY-New&theme=tokyonight" />
-</a> 
 
-<a href="https://github.com/armandidandeh/textplore-ml">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=textplore-ml&theme=tokyonight" />
-</a>
