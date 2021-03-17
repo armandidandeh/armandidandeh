@@ -13,10 +13,6 @@ You can follow me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandidandeh&hide=html&layout=compact&theme=dracula)](https://github.com/armandidandeh/github-readme-stats)
 
-<a href="https://github.com/armandidandeh/visualizing-hierarchies>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=visualizing-hierarchies&theme=tokyonight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=visualizing-hierarchies&theme=tokyonight" />
                                                                                                                                              
-<a href="https://github.com/armandidandeh/flask-vuejs-template>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=flask-vuejs-template&theme=tokyonight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandidandeh&repo=flask-vuejs-template&theme=tokyonight" />
