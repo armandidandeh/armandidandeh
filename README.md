@@ -7,7 +7,7 @@ I care about human-centred AI products and love working with and scaling early s
 
 You can follow me on:
 
-- my [LinkedIn](https://www.linkedin.com/in/armandidandeh/)
+- my [LinkedIn](https://www.linkedin.com/in/arman-didandeh/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=armandidandeh&show_icons=true&theme=dracula)
 
